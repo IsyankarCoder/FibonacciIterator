@@ -1,0 +1,16 @@
+D:\VsProject\Fibonacci\bin\Debug\net5.0\Fibonacci.exe
+D:\VsProject\Fibonacci\bin\Debug\net5.0\Fibonacci.deps.json
+D:\VsProject\Fibonacci\bin\Debug\net5.0\Fibonacci.runtimeconfig.json
+D:\VsProject\Fibonacci\bin\Debug\net5.0\Fibonacci.runtimeconfig.dev.json
+D:\VsProject\Fibonacci\bin\Debug\net5.0\Fibonacci.dll
+D:\VsProject\Fibonacci\bin\Debug\net5.0\ref\Fibonacci.dll
+D:\VsProject\Fibonacci\bin\Debug\net5.0\Fibonacci.pdb
+D:\VsProject\Fibonacci\obj\Debug\net5.0\Fibonacci.csprojAssemblyReference.cache
+D:\VsProject\Fibonacci\obj\Debug\net5.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsProject\Fibonacci\obj\Debug\net5.0\Fibonacci.AssemblyInfoInputs.cache
+D:\VsProject\Fibonacci\obj\Debug\net5.0\Fibonacci.AssemblyInfo.cs
+D:\VsProject\Fibonacci\obj\Debug\net5.0\Fibonacci.csproj.CoreCompileInputs.cache
+D:\VsProject\Fibonacci\obj\Debug\net5.0\Fibonacci.dll
+D:\VsProject\Fibonacci\obj\Debug\net5.0\ref\Fibonacci.dll
+D:\VsProject\Fibonacci\obj\Debug\net5.0\Fibonacci.pdb
+D:\VsProject\Fibonacci\obj\Debug\net5.0\Fibonacci.genruntimeconfig.cache
